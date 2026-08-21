@@ -1,0 +1,78 @@
+[
+  {
+    "id": "link",
+    "name": "Link",
+    "category": "Héroe",
+    "summary": "Héroe legendario de Hyrule, elegido por las Diosas y portador de la Espada Maestra. Link representa la Trifuerza del Valor y se enfrenta a las fuerzas de Ganon para proteger Hyrule y a sus habitantes.",
+    "games": [
+      "The Legend of Zelda",
+      "Zelda II: The Adventure of Link",
+      "A Link to the Past",
+      "Link's Awakening",
+      "Ocarina of Time",
+      "Majora's Mask",
+      "Oracle of Seasons",
+      "Oracle of Ages",
+      "Four Swords",
+      "The Wind Waker",
+      "Four Swords Adventures",
+      "The Minish Cap",
+      "Twilight Princess",
+      "Phantom Hourglass",
+      "Spirit Tracks",
+      "Skyward Sword",
+      "A Link Between Worlds",
+      "Tri Force Heroes",
+      "Breath of the Wild",
+      "Tears of the Kingdom",
+      "Echoes of Wisdom (No es protagonista)"
+    ],
+    "imageName": "Link",
+    "imageName2": "linkicon"
+  },
+  {
+    "id": "zelda",
+    "name": "Zelda",
+    "category": "Princesa",
+    "summary": "Princesa de Hyrule y portadora de la Trifuerza de la Sabiduría. Zelda posee un papel fundamental en la protección de su reino y suele colaborar con Link para enfrentarse a las fuerzas de Ganon.",
+    "games": [
+      "The Legend of Zelda",
+      "Zelda II: The Adventure of Link",
+      "A Link to the Past",
+      "Ocarina of Time",
+      "Majora's Mask",
+      "Oracle of Seasons",
+      "Oracle of Ages",
+      "Four Swords",
+      "The Wind Waker",
+      "Four Swords Adventures",
+      "The Minish Cap",
+      "Twilight Princess",
+      "Phantom Hourglass",
+      "Spirit Tracks",
+      "Skyward Sword",
+      "A Link Between Worlds",
+      "Tri Force Heroes",
+      "Breath of the Wild",
+      "Tears of the Kingdom",
+      "Echoes of Wisdom (Protagonista)"
+    ],
+    "imageName": "zeldaicon",
+    "imageName2": "zeldaicon2"
+  },
+  {
+    "id": "ganon",
+    "name": "Ganon",
+    "category": "Antagonista",
+    "summary": "Forma demoníaca del principal enemigo de Hyrule, representado como una poderosa bestia que encarna el mal y la destrucción. Ganon utiliza su enorme poder para conquistar Hyrule y enfrentarse al héroe que busca detenerlo.",
+    "games": [
+      "The Legend of Zelda",
+      "A Link to the Past",
+      "Oracle of Seasons",
+      "Four Swords Adventures",
+      "Breath of the Wild"
+    ],
+    "imageName": "Ganon",
+    "imageName2": "ganonicon"
+  }
+]
