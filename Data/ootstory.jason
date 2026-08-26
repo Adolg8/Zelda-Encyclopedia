@@ -1,0 +1,173 @@
+{
+  "gameId": "oot",
+  "chapters": [
+    {
+      "id": "cap1_eventos_previos",
+      "title": "Eventos previos a Ocarina of Time",
+      "sections": [
+        {
+          "id": "c1_s1",
+          "type": "paragraph",
+          "text": "Aproximadamente diez años antes de que comience la historia de Ocarina of Time, hubo una guerra conocida como la Guerra Civil de Hyrule. Esta guerra explica los orígenes de varios personajes y proporciona información adicional sobre sus motivos."
+        }
+      ]
+    },
+    {
+      "id": "cap2_nino_sin_hada",
+      "title": "El niño sin hada",
+      "sections": [
+        {
+          "id": "c2_s1",
+          "type": "image",
+          "imageName": "kokiri_forest_img",
+          "caption": "El Bosque Kokiri, donde Link comienza su fatídico viaje."
+        },
+        {
+          "id": "c2_s2",
+          "type": "paragraph",
+          "text": "En el Bosque Kokiri, todos los niños del bosque tienen sus propias hadas guardianas, otorgadas por el Gran Árbol Deku, excepto un niño llamado Link. Link ha estado atormentado recientemente por pesadillas de la Princesa Zelda huyendo de un hombre malvado vestido de negro a caballo. Desde que tiene memoria, Link ha sido marginado por los Kokiri y nunca ha encajado del todo, excepto por una niña llamada Saria."
+        },
+        {
+          "id": "c2_s3",
+          "type": "paragraph",
+          "text": "Un día, el Gran Árbol Deku envía a Navi, el hada, para que llame al niño. Para poner a prueba el coraje del joven Link, el Gran Árbol Deku le pide a Link que se aventure dentro de su hueco y rompa la maldición que le lanzó un \"hombre malvado vestido de negro\"."
+        },
+        {
+          "id": "c2_s4",
+          "type": "paragraph",
+          "text": "Link obedece, pero sus esfuerzos son en vano; la muerte del Gran Árbol Deku estaba sellada en las páginas del destino antes incluso de que la aventura del héroe comenzara. Con su último aliento, el Gran Árbol Deku le otorga a Link la Piedra Espiritual del Bosque, la Esmeralda Kokiri, y le ruega que viaje al Castillo de Hyrule y se reúna con la Princesa Zelda."
+        },
+        {
+          "id": "c2_s5",
+          "type": "image",
+          "imageName": "young_zelda_img",
+          "caption": "La joven princesa Zelda se presenta a Link."
+        },
+        {
+          "id": "c2_s6",
+          "type": "paragraph",
+          "text": "Tras atravesar el Campo de Hyrule y pasar por la Ciudadela de Hyrule, Link no tarda en darse cuenta de que hablar con la princesa de Hyrule no será tarea fácil; numerosos guardias vigilan, alerta y listos para atrapar a cualquier intruso. Sin embargo, logra infiltrarse en el castillo, sorteando la puerta principal y evadiendo a todos los guardias en su camino. Al llegar al castillo, el puente levadizo parece un obstáculo insuperable. No obstante, Link descubre un desagüe sin vigilancia junto al foso del castillo y consigue arrastrarse por el agujero, emergiendo en el jardín del castillo. Muchos más guardias patrullan la zona, pero Link logra esquivarlos a todos y colarse en el Patio del Castillo. En este Patio, su destino converge con el de la joven Princesa de Hyrule."
+        },
+        {
+          "id": "c2_s7",
+          "type": "paragraph",
+          "text": "La princesa Zelda le cuenta a Link sus sueños proféticos, explicándole que había visto al joven héroe salir del bosque y atravesar un velo de oscuridad, acompañado por un hada guía y portando la Esmeralda Kokiri. También le advierte sobre Ganondorf, el hombre vestido de negro que Zelda cree que está simbolizado por las nubes oscuras de sus sueños, y su malvada intención de robar la Trifuerza de la leyenda del Reino Sagrado. Con el poder de las Diosas, su deseo de subyugar al mundo se haría realidad. Para ello, Ganondorf necesitaría no solo las tres Piedras Espirituales de Hyrule, sino también la mística Ocarina del Tiempo. Zelda insiste en que Link debe encontrar las otras dos Piedras Espirituales, para que puedan ganarle la Trifuerza a Ganondorf y poner fin a su malvado e ingenioso plan. Aquí, pronto conoce a Impa, la fiel asistente de la princesa y miembro de los Sheikah."
+        },
+        {
+          "id": "c2_s8",
+          "type": "paragraph",
+          "text": "Link parte hacia la Montaña de la Muerte y el Dominio Zora, donde logra ayudar tanto a los Goron como a los Zora (en particular a Darunia y la Princesa Ruto) a sofocar las calamidades que Ganondorf había provocado en su búsqueda de la Trifuerza y es recompensado con las otras dos Piedras Espirituales, el Rubí Goron y el Zafiro Zora por sus esfuerzos."
+        },
+        {
+          "id": "c2_s9",
+          "type": "image",
+          "imageName": "zelda_impa_flee_img",
+          "caption": "Zelda e Impa huyen de Ganondorf."
+        },
+        {
+          "id": "c2_s10",
+          "type": "paragraph",
+          "text": "Regresa al Castillo de Hyrule para informar a Zelda de su éxito, solo para presenciar cómo su ominosa pesadilla del comienzo de su aventura se convierte en realidad; Ganondorf ataca el Castillo de Hyrule (probablemente asesinando al Rey de Hyrule en el proceso) en un intento de robar la Ocarina del Tiempo, y la Princesa Zelda se ve obligada a huir con Impa a caballo para evitar que la Trifuerza caiga en manos de Ganondorf. Al pasar junto al joven héroe en el puente levadizo de la Ciudadela de Hyrule, rápidamente arroja la Ocarina al foso para darle la oportunidad de entrar al Reino Sagrado y recuperar la Trifuerza. En una persecución implacable, el propio Ganondorf cruza el puente levadizo a caballo, atacando a Link con magia oscura cuando intenta interponerse en su camino. Desestimando a Link como una amenaza insignificante para su poder, acelera en persecución de la princesa. Link observa con frustración."
+        },
+        {
+          "id": "c2_s11",
+          "type": "image",
+          "imageName": "link_master_sword_img",
+          "caption": "El joven Link desenvaina la Espada Maestra."
+        },
+        {
+          "id": "c2_s12",
+          "type": "paragraph",
+          "text": "Cuando Link recupera la Ocarina del Tiempo del foso, recibe un mensaje telepático de Zelda, diciéndole que ya no estará allí y que toque la \"Canción del Tiempo\" frente al altar del Templo del Tiempo. Link se dirige al Templo del Tiempo y procede a usar las tres Piedras Espirituales y tocar la Canción del Tiempo para abrir la Puerta del Tiempo. Más allá se encuentra la legendaria Espada Maestra, también conocida como la Espada de la Perdición del Mal, que reposa en el Pedestal del Tiempo. Link desenvaina la espada mágica, desbloqueando el portal al Reino Sagrado. A pesar de que la Espada Maestra acepta a Link como su portador, de repente sella al joven héroe en el Reino Sagrado. Ganondorf, que había sospechado que Link podría haber adquirido ya las llaves del Reino Sagrado, lo siguió en secreto, aparece y se burla de él por haberlo guiado a la Trifuerza. Link observa impotente cómo Ganondorf cruza al Reino Sagrado con una risa malvada."
+        }
+      ]
+    },
+    {
+      "id": "cap3_heroe_del_tiempo",
+      "title": "El héroe del tiempo",
+      "sections": [
+        {
+          "id": "c3_s1",
+          "type": "image",
+          "imageName": "oot_characters_img",
+          "caption": "Ilustración que representa a varios personajes principales de Ocarina of Time."
+        },
+        {
+          "id": "c3_s2",
+          "type": "paragraph",
+          "text": "Siete años después, un Link adulto es despertado por un anciano en la Cámara de los Sabios. Se presenta como Rauru y se revela como uno de los antiguos Sabios que presiden el Reino Sagrado. Rauru explica que solo el \"Héroe del Tiempo\" puede sacar la Espada Maestra de su Pedestal. Sin embargo, Link era demasiado joven para tener este título, por lo que su espíritu fue sellado en el Reino Sagrado durante 7 años hasta que sea lo suficientemente maduro para ser tomado en cuenta. Rauru revela además que Ganondorf obtuvo la Trifuerza después de obtener acceso al Reino Sagrado, y usó su gran poder para transformar Hyrule en una tierra de oscuridad. Rauru insta a Link a buscar a los Sabios restantes y le otorga al héroe su poder en forma del Medallón de Luz."
+        },
+        {
+          "id": "c3_s3",
+          "type": "paragraph",
+          "text": "Link regresa al Templo del Tiempo, donde lo recibe un misterioso joven llamado Sheik, uno de los pocos supervivientes de la antigua tribu Sheikah. Le cuenta a Link sobre la conquista de Ganondorf durante los últimos siete años y sobre la leyenda de los Sabios. Le insta al héroe a despertar a los cinco Sabios restantes en los cinco Templos mencionados en la leyenda, que están dispersos por todo Hyrule. Empuñando la Espada de la Perdición del Mal, Link se dispone a romper la maldición sobre todos los Templos sagrados y despertar a los nuevos Sabios que se encuentran en su interior, quienes resultan ser sus amigos a quienes ayudó durante su infancia y que, a su vez, le otorgaron al héroe más poder con sus propios Medallones, como Rauru."
+        },
+        {
+          "id": "c3_s4",
+          "type": "image",
+          "imageName": "triforce_img",
+          "caption": "La Trifuerza, la importante reliquia omnipotente creada por las Diosas Doradas."
+        },
+        {
+          "id": "c3_s5",
+          "type": "paragraph",
+          "text": "Después de que los Seis Sabios despiertan, Link, el Héroe del Tiempo, regresa al Templo del Tiempo y se encuentra con Sheik una vez más. Sheik le cuenta a Link otra leyenda de la Trifuerza transmitida por los Sheikah. La Trifuerza es una gran balanza que mide las tres virtudes regidas por las Diosas Doradas: Poder, Sabiduría y Coraje. Si el corazón de quien posee el triángulo sagrado alberga estas tres fuerzas en equilibrio, esa persona adquirirá la Trifuerza intacta, la autoridad divina para gobernar todo. Si el corazón no está en equilibrio, la reliquia se dividirá en tres partes, y solo una permanecerá para quien tocó la Trifuerza: aquella que encarna la fuerza en la que más cree."
+        },
+        {
+          "id": "c3_s6",
+          "type": "paragraph",
+          "text": "Si aquel con un corazón desequilibrado busca la Trifuerza completa, entonces esa persona debe esforzarse por adquirir las dos partes perdidas, que descansarán en otras dos elegidas por el destino que sostendrán el emblema de las diosas en el dorso de sus manos. Cuando Ganondorf puso sus manos sobre la Trifuerza, la profecía se cumplió; la Trifuerza se dividió en sus tres partes, y solo la Trifuerza del Poder permaneció en las manos de Ganondorf."
+        },
+        {
+          "id": "c3_s7",
+          "type": "paragraph",
+          "text": "Ganondorf procedió a conquistar el Reino Sagrado y se autoproclamó Rey del Mal, pero su sed de poder aún no estaba satisfecha. Ganondorf comenzó a cazar a aquellos elegidos por el destino para obtener las otras dos piezas de la Trifuerza que habían escapado de su alcance. Sheik revela que Link mismo empuña la Trifuerza del Valor, y finalmente se quita el disfraz para revelar su verdadera identidad como la Princesa Zelda, la séptima Sabia y su líder, quien empuña la Trifuerza de la Sabiduría."
+        },
+        {
+          "id": "c3_s8",
+          "type": "image",
+          "imageName": "zelda_returns_img",
+          "caption": "La princesa Zelda regresa para ver a Link después de que Sheik se quita el disfraz."
+        },
+        {
+          "id": "c3_s9",
+          "type": "paragraph",
+          "text": "Finalmente, al encontrarse en persona con el héroe, la ahora adulta Zelda le dice a Link que pensó que darle la Ocarina del Tiempo en el pasado sería la mejor manera de mantenerla fuera del alcance de Ganondorf. Sin embargo, no predijo que el villano seguiría a Link al Reino Sagrado y tomaría la Trifuerza del Poder para sí mismo. Zelda se disfrazó a la fuerza como una Sheikah como Impa para esconderse de Ganondorf, y esperó pacientemente siete años a que Link regresara. La princesa Zelda le dice entonces al Héroe del Tiempo que los seis Sabios deben sellar a Ganondorf dentro del Reino Maligno, de modo que ella misma debe sellar la puerta al Reino Sagrado para mantenerlo prisionero por siglos venideros. La princesa también le da al joven héroe Flechas de Luz para ayudarlo en su objetivo. Sin embargo, al revelarse finalmente a Link, Zelda también se expone completamente a Ganondorf, quien ha estado esperando este momento. El Rey del Mal la encierra rápidamente en un gran cristal mágico y la lleva a su castillo, construido donde antes se alzaba el Castillo de Hyrule, antes de su destrucción. Link corre al Castillo de Ganon para rescatar a la princesa y prepararla para el enfrentamiento final."
+        }
+      ]
+    },
+    {
+      "id": "cap4_enfrentamiento_final",
+      "title": "El enfrentamiento final",
+      "sections": [
+        {
+          "id": "c4_s1",
+          "type": "image",
+          "imageName": "ganons_castle_img",
+          "caption": "El castillo de Ganon, la fortaleza de Ganondorf"
+        },
+        {
+          "id": "c4_s2",
+          "type": "paragraph",
+          "text": "Al entrar en la ubicación de Ganondorf, Link rompe la barrera que rodea el castillo con la ayuda de los seis Sabios despertados (quienes también fueron capturados y deben ser rescatados). Asaltando la fortaleza, se enfrenta a Ganondorf, y se desata una feroz y épica batalla por el destino de Hyrule y la Trifuerza. El castillo pronto se derrumba, obligando a Link y a la Princesa Zelda a evacuar a un lugar seguro, y el villano incluso se convierte en el Rey Demonio Ganon, su verdadera forma, después de saltar de entre los escombros. Finalmente, Link y la Princesa Zelda salen victoriosos."
+        },
+        {
+          "id": "c4_s3",
+          "type": "image",
+          "imageName": "link_vs_ganon_img",
+          "caption": "El Héroe del Tiempo contra el Rey del Mal"
+        },
+        {
+          "id": "c4_s4",
+          "type": "paragraph",
+          "text": "Sin una mente fuerte y justa, Ganondorf no puede controlar el poder de los dioses y, finalmente, es derrotado por Link. Con su poder ahora completamente restaurado, los siete Sabios arrojan la encarnación maligna de la oscuridad al vacío del Reino Maligno que había sido el Reino Sagrado antes de ser manchado por la maldad de Ganondorf. Zelda sella entonces el portal, aprisionando finalmente al Rey Maligno dentro del Reino Sagrado. Antes de ser sellado, el villano, en estado de shock por haber sido derrotado por completo, advierte furiosamente a Link y Zelda que regresará para exterminar a sus descendientes cuando se rompa el sello (prefigurando The Wind Waker), ya que, desafortunadamente, todavía tiene la Trifuerza del Poder en su mano."
+        },
+        {
+          "id": "c4_s5",
+          "type": "paragraph",
+          "text": "Al despedirse, la Princesa Zelda le indica a Link que coloque la Espada Maestra de nuevo en su pedestal y cierre la Puerta del Tiempo, cerrando así el camino entre las dos líneas temporales, y lo envía a su tiempo original para que recupere su infancia perdida. Durante los créditos finales, el futuro Hyrule, gracias a la derrota de Ganon a manos de Link, ahora vive en una paz duradera mientras los demás Sabios observan felices la Montaña de la Muerte. Después de que Link regresa al pasado definitivamente, Navi lo deja, pues su misión de guiar al joven héroe para salvar Hyrule ha concluido. Link conserva todo su conocimiento sobre el destino de Hyrule a lo largo de su aventura. Con esta valiosa información, visita inmediatamente a la joven Princesa Zelda en el patio del Castillo de Hyrule una vez más para evitar que tal destino vuelva a ocurrir (presagiando Majora's Mask y, finalmente, Twilight Princess). El juego termina entonces. Link, quien viajó en el tiempo para salvar la tierra, sería conocido para siempre en la leyenda como el Héroe del Tiempo."
+        }
+      ]
+    }
+  ]
+}
