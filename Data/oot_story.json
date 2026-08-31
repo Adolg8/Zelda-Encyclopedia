@@ -1,5 +1,6 @@
 {
   "gameId": "oot",
+  "introVideoURL": "https://raw.githubusercontent.com/Adolg8/Zelda-Encyclopedia/main/Data/Videos/IntroOFT.mp4",
   "chapters": [
     {
       "id": "cap1_eventos_previos",
